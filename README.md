@@ -1,15 +1,22 @@
- Olá, me chamo Luís Daniel ! 
- <img src="https://img.shields.io/static/v1?label=Overview&message=Daniel-MComin&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
- Bem vindo ao meu perfil GitHub.
+### Olá, meu chamo é Luís Daniel !
  
- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+ <img src="https://img.shields.io/static/v1?label=Overview&message=Daniel-MComin&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+ 
+ Bem vindo ao meu perfil GitHub.
 
 <p align="left"> 
    Sou estudante de Ciência da Computação no Instituto Federal de Ciência e Tecnologia do Ceará (IFCE). Estou aperfeiçoando meus conhecimentos em desenvolvimento web na área de front-end e busco me tornar um desenvolvedor.
 </p>
 
 <p align="left">
-  🦄 Linguagens: HTML || CSS || JavaScript
+ ## 🚀 Minhas Skills
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
 </p>
 
 <p align="left">
