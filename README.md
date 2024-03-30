@@ -1,4 +1,4 @@
-### Olá, me chamo é Luís Daniel !
+### Olá, me chamo Luís Daniel !
  Bem vindo ao meu perfil GitHub.
  
 --- 
