@@ -38,14 +38,11 @@
   ## 🚀 Contato:
 
 
-
    
   <a href="#" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=danielmacmin@gmail.com" alt="Gmail"/></a>
   <a href="#" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-daniel-maciel-comin-b5a0b7211/" alt="LinkedIn"/></a>
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/danmacmin/" alt="Instagram"/></a>
 </p>
 
 --- 
@@ -64,14 +61,6 @@
       <img
         align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-mcomin&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-mcomin&theme=dark&hide_border=false"
         alt="Github Stats"
       />
     </td>
