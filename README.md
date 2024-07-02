@@ -43,7 +43,7 @@
 
 <p align="left">
 <div>
-<a href="https://github.com/seu-usuário-aqui">
+<a href="https://github.com/Daniel-MComin">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-mcomin&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 </p>
