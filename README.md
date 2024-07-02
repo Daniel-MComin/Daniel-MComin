@@ -44,7 +44,7 @@
 <p align="left">
 <div>
 <a href="https://github.com/Daniel-MComin">
-<img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-mcomin&layout=compact"/>
+<img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-mcomin&layout=compact&theme=synthwave"/>
 </div>
 </p>
 
