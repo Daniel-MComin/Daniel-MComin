@@ -44,7 +44,7 @@
 <p align="left">
 <div>
 <a href="https://github.com/Daniel-MComin">
-<img loading="lazy" height="180em" src="(https://github-readme-stats.vercel.app/api/top-langs/?daniel-mcomin=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?daniel-mcomin=anuraghazra&layout=donut-vertical"/>
 </div>
 </p>
 
