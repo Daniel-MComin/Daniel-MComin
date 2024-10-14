@@ -15,7 +15,6 @@
 
  ## 🚀 Conhecimentos:
 <p align="left">
-"/></code>
 <code><img height="32" src="https://skillicons.dev/icons?i=git"></code>
 <code><img height="32" src="https://skillicons.dev/icons?i=typescript"></code>
 <code><img height="32" src="https://skillicons.dev/icons?i=css"></code>
