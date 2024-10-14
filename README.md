@@ -11,6 +11,8 @@
    Sou estudante de Ciência da Computação no Instituto Federal de Ciência e Tecnologia do Ceará (IFCE). Estou aperfeiçoando meus conhecimentos em desenvolvimento web na área de front-end e busco me tornar um desenvolvedor.
 </p>
 
+<p align="left">🚀 Voluntário em NDS - Núcleo de Desenvolvimento de Software - Campus Maracanaú </p>
+
 ----
 
  ## 🚀 Conhecimentos:
