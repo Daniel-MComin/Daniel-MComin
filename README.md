@@ -31,6 +31,7 @@
  ## 🚀 Aprendendo:
 <p align="left">
 <code><img height="32" src="https://skillicons.dev/icons?i=angular"></code>
+ <code><img height="32" src="https://skillicons.dev/icons?i=nodejs"></code>
 <code><img height="32" src="https://skillicons.dev/icons?i=figma"></code>
 </p>
 
