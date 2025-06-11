@@ -11,8 +11,6 @@
    Sou estudante de Engenharia de Computação na Universidade Estadual de Ponta Grossa (UEPG). Estou aperfeiçoando meus conhecimentos em desenvolvimento web na área de front-end e busco me tornar um desenvolvedor.
 </p>
 
-<p align="left">🚀 Voluntário em NDS - Núcleo de Desenvolvimento de Software - Campus Maracanaú </p>
-
 ----
 
  ## 🚀 Conhecimentos:
