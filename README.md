@@ -53,7 +53,7 @@
 </div>
  <div>
 <a href="https://github.com/Daniel-MComin">
-<img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/wakatime?username=daniel-mcomin)](https://github.com/anuraghazra/github-readme-stats)/>
+<img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/wakatime?username=daniel-mcomin)"/>
 </div>
 </p>
 
