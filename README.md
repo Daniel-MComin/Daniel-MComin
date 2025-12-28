@@ -51,7 +51,7 @@
 <a href="https://github.com/Daniel-MComin">
 <img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-mcomin&layout=donut&theme=synthwave"/>
 </div>
- 
+</p>
 
 
 
