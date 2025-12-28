@@ -49,7 +49,7 @@
 <p align="left">
 <div>
 <a href="https://github.com/Daniel-MComin">
-<img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api?username=daniel-mcomin&show_icons=true&theme=radical"/>
+<img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-mcomin&stats_format=bytes"/>
 </div>
 </p>
 
