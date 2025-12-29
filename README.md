@@ -23,7 +23,7 @@
 <code><img height="32" src="https://skillicons.dev/icons?i=javascript"></code>
 <code><img height="32" src="https://skillicons.dev/icons?i=angular"></code>
 <code><img height="32" src="https://skillicons.dev/icons?i=react"></code>
-<code><img height="32" src="https://skillicons.dev/icons?i=postgree"></code>
+<code><img height="32" src="https://skillicons.dev/icons?i=postgres"></code>
 </p>
 
 ----
