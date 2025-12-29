@@ -8,7 +8,11 @@
 
 ## 🚀 Sobre mim: 
 <p align="left"> 
-   Sou estudante de Engenharia de Computação na Universidade Estadual de Ponta Grossa (UEPG). Estou aperfeiçoando meus conhecimentos em desenvolvimento web..
+   Atualmente, sou graduando em **Engenharia de Computação** na **Universidade Estadual de Ponta Grossa (UEPG)**. 🎓
+</p>
+<p>
+- 💻 Focado em aperfeiçoar meus conhecimentos em **Desenvolvimento Web**.
+- 🛠️ Buscando aprender novas tecnologias e boas práticas de programação.
 </p>
 
 ----
@@ -50,11 +54,11 @@
 
 ----
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Daniel-MComin/Daniel-MComin/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Daniel-MComin/Daniel-MComin/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Daniel-MComin/Daniel-MComin/output/pacman-contribution-graph.svg">
-</picture>
+<p>
+<a href = "https://github-readme-stats.vercel.app/api?username=Daniel-MCominI&show_icons=true&theme=radical"></a>
+</p>
+
+
 
 
 
