@@ -22,6 +22,8 @@
 <code><img height="32" src="https://skillicons.dev/icons?i=sass"></code>
 <code><img height="32" src="https://skillicons.dev/icons?i=javascript"></code>
 <code><img height="32" src="https://skillicons.dev/icons?i=angular"></code>
+<code><img height="32" src="https://skillicons.dev/icons?i=react"></code>
+<code><img height="32" src="https://skillicons.dev/icons?i=postgree"></code>
 </p>
 
 ----
@@ -31,6 +33,7 @@
 <code><img height="32" src="https://skillicons.dev/icons?i=angular"></code>
  <code><img height="32" src="https://skillicons.dev/icons?i=nodejs"></code>
 <code><img height="32" src="https://skillicons.dev/icons?i=figma"></code>
+ <code><img height="32" src="https://skillicons.dev/icons?i=nestjs"></code>
 </p>
 
 
@@ -46,7 +49,7 @@
 
 --- 
 <div>
-<img src="https://raw.githubusercontent.com/daniel-mcomin/daniel-mcomin/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Daniel-MComin/Daniel-MComin/output/snake.svg" alt="Snake animation" />
 </div>
 
 
