@@ -45,9 +45,9 @@
 </p>
 
 --- 
-
+<div>
 <img src="https://raw.githubusercontent.com/daniel-mcomin/daniel-mcomin/output/snake.svg" alt="Snake animation" />
-
+</div>
 
 
 
