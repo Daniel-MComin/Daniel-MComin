@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mim: 
 <p align="left"> 
-   Sou estudante de Engenharia de Computação na Universidade Estadual de Ponta Grossa (UEPG). Estou aperfeiçoando meus conhecimentos em desenvolvimento web na área de front-end e busco me tornar um desenvolvedor.
+   Sou estudante de Engenharia de Computação na Universidade Estadual de Ponta Grossa (UEPG). Estou aperfeiçoando meus conhecimentos em desenvolvimento web..
 </p>
 
 ----
@@ -46,13 +46,13 @@
 
 --- 
 
-<p align="left">
+
 <div style="width: 200px;">
 <a href="https://github.com/Daniel-MComin/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-MComin&langs_count=8" alt="Top Langs" />
 </a>
 </div>
-</p>
+
 
 
 
