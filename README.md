@@ -11,7 +11,7 @@
    Atualmente, sou graduando em <strong>Engenharia de Computação</strong> na <strong>Universidade Estadual de Ponta Grossa (UEPG)</strong>. 🎓
 </p>
 <p>
-- 💻 Focado em aperfeiçoar meus conhecimentos em **Desenvolvimento Web**.
+- 💻 Focado em aperfeiçoar meus conhecimentos em <strong>Desenvolvimento Web</strong>.
 </p>
 <p>
 - 🛠️ Buscando aprender novas tecnologias e boas práticas de programação.
