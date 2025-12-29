@@ -23,6 +23,7 @@
 <code><img height="32" src="https://skillicons.dev/icons?i=javascript"></code>
 <code><img height="32" src="https://skillicons.dev/icons?i=angular"></code>
 <code><img height="32" src="https://skillicons.dev/icons?i=react"></code>
+ <code><img height="32" src="https://skillicons.dev/icons?i=nodejs"></code>
 <code><img height="32" src="https://skillicons.dev/icons?i=postgres"></code>
 </p>
 
@@ -31,9 +32,8 @@
  ## 🚀 Aprendendo:
 <p align="left">
 <code><img height="32" src="https://skillicons.dev/icons?i=angular"></code>
- <code><img height="32" src="https://skillicons.dev/icons?i=nodejs"></code>
 <code><img height="32" src="https://skillicons.dev/icons?i=figma"></code>
- <code><img height="32" src="https://skillicons.dev/icons?i=nestjs"></code>
+<code><img height="32" src="https://skillicons.dev/icons?i=nestjs"></code>
 </p>
 
 
@@ -47,10 +47,13 @@
 </div>
 </p>
 
---- 
-<div>
-<img src="https://raw.githubusercontent.com/Daniel-MComin/Daniel-MComin/output/snake.svg" alt="Snake animation" />
-</div>
+----
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Daniel-MComin/Daniel-MComin/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Daniel-MComin/Daniel-MComin/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Daniel-MComin/Daniel-MComin/output/pacman-contribution-graph.svg">
+</picture>
 
 
 
