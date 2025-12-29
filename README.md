@@ -34,6 +34,7 @@
 <code><img height="32" src="https://skillicons.dev/icons?i=angular"></code>
 <code><img height="32" src="https://skillicons.dev/icons?i=figma"></code>
 <code><img height="32" src="https://skillicons.dev/icons?i=nestjs"></code>
+ <code><img height="32" src="https://skillicons.dev/icons?i=nextjs"></code>
 </p>
 
 
