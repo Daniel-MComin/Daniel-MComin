@@ -47,9 +47,10 @@
 --- 
 
 <p align="left">
-<div>
-<a href="https://github.com/Daniel-MComin">
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-mcomin&layout=compact"/>
+<div style="width: 200px;">
+<a href="https://github.com/Daniel-MComin/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-MComin&langs_count=8" alt="Top Langs" />
+</a>
 </div>
 </p>
 
